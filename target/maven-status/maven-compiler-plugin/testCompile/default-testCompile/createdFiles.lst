@@ -1,0 +1,6 @@
+springboot\service\impl\ContentServcieImplTest.class
+springboot\service\impl\OptionServiceImplTest.class
+springboot\service\impl\RedisServiceTest.class
+springboot\scheduletask\ScheduleTaskTest.class
+springboot\service\impl\UserServiceImplTest.class
+springboot\util\MyUtilsTest.class
